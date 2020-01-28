@@ -1,7 +1,8 @@
 body {
 /*    font-family: Verdana, Candara, Arial, Microsoft YaHei,sans-serif;     */
-    font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
-    line-height: 1.6;
+/*    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;     */
+font-family: kaiTi, Georgia, sans;
+line-height: 1.6;
     margin: 0;
 }
 
